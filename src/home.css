@@ -1,0 +1,10 @@
+.homeDiv {
+    background-color: slategrey;
+    display: flex;
+    height: 100vh;
+    justify-items: center;
+    padding-left: 50px;
+
+
+
+}

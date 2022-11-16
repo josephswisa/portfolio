@@ -1,0 +1,14 @@
+.contactDiv {
+    background-color: slategrey;
+    height: 100vh;
+    display: list-item;
+    padding-left: 15px;
+    justify-content: space-evenly;
+
+
+}
+
+img {
+    width: 25px;
+    height: 25px;
+}
